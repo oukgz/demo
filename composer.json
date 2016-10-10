@@ -1,0 +1,19 @@
+{
+    "name": "ouk/demo",
+    "description": "the skill demonstration task",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Oleg Kuznetsov",
+            "email": "oleg.kuznetsov.job@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "7.0.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "demo\\": ""
+        }
+    }
+}
